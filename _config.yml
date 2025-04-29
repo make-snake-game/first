@@ -1,7 +1,7 @@
 title: My Blog
 description: A simple blog made with Jekyll and GitHub Pages
-baseurl: ""  # root에 배포할 경우 빈 값
-url: "https://make-snake-game.github.io/first"  # 본인의 GitHub Pages 주소
+baseurl: "first"  # root에 배포할 경우 빈 값
+url: "https://make-snake-game.github.io/"  # 본인의 GitHub Pages 주소
 
 theme: minima  # 기본 테마 설정 (직접 스타일링하고 싶으면 제거 가능)
 
